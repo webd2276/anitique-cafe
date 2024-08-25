@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "c:\\Users\\HAMZA ALI\\Music\\2126_antique_cafe",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
+{
+	run server
+	port 5050
+	
+}
